@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/24618293/197349015-7c77770c-1661-4780-8fde-34a00118e34e.gif" width="300">
+<img src="https://github.com/user-attachments/assets/b652fefb-3e93-4d38-a034-0263900f8724" width="300">
 
 ### 구현기능
 
